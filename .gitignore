@@ -1,0 +1,4 @@
+.idea/
+*/inc/config.php
+*/uploads/*
+!*/uploads/.gitkeep
